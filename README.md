@@ -4,5 +4,5 @@ https://1drv.ms/u/c/B3AC8C293C5BE2E1/IQD2gdHJVueRSLpkv8_rEFzTAfNgjpx2wbc8F_AN91z
 https://1drv.ms/u/c/B3AC8C293C5BE2E1/IQArjsQ8E9HcT6dr2tOoRVZpAZ6WncExhZslsJIVFNuri2c?e=N3b2WV
 Advanced Architecturelink:https://your-name-portfolio.netlify.app/
 To-Do List Application: https://pdf.ac/bPNT-bbN
-weather dashboard:content://downloads/all_downloads/1360
-     
+
+  ✅ weather-dashboard-FINAL.html   
