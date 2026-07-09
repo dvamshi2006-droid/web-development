@@ -5,4 +5,5 @@ https://1drv.ms/u/c/B3AC8C293C5BE2E1/IQArjsQ8E9HcT6dr2tOoRVZpAZ6WncExhZslsJIVFNu
 Advanced Architecturelink:https://your-name-portfolio.netlify.app/
 To-Do List Application: https://pdf.ac/bPNT-bbN
 
-weather dashboard:content://media/external/file/1000143829
+weather dashboard:
+https://drive.google.com/file/d/1NHYJJr1SocsyChQJ_IikmMspVviXazUJ/view?usp=drivesdk
