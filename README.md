@@ -6,4 +6,4 @@ Advanced Architecturelink:https://your-name-portfolio.netlify.app/
 To-Do List Application: https://pdf.ac/bPNT-bbN
 weather dashboard:
 https://drive.google.com/file/d/1NHYJJr1SocsyChQJ_IikmMspVviXazUJ/view?usp=drivesdk
- final:file:///C:/Users/Vamshi/Downloads/fernweh-supply-co-STANDALONE.html
+final:https://drive.google.com/file/d/1BURlf_zswHCEq-VrNcZlvhtZk1S3r_L1/view?usp=drivesdk
